@@ -1,0 +1,7 @@
+# SHIFTCAST AI - runtime dependencies (version ranges, not exact pins, so they install on new Python versions)
+streamlit>=1.40,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.24,<7
+pydantic>=2.7,<3
+python-dotenv>=1.0,<2

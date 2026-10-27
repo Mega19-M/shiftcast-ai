@@ -1,0 +1,285 @@
+{
+  "format": "shiftcast-overlay-cues/1.0",
+  "match_id": "DEMO1",
+  "synthetic": true,
+  "cues": [
+    {
+      "cue_id": "DEMO1-I03-C1",
+      "type": "lower_third",
+      "start_min": 27.0,
+      "duration_s": 8,
+      "title": "Northgate United: repeated attacks down the left flank 27'-37'",
+      "text": "71% of the 14 attacking-third passes and shots by Northgate United between 27' and 37' went down the left flank, against a baseline of 22% (",
+      "event_ids": [
+        "DEMO1-E0362",
+        "DEMO1-E0363",
+        "DEMO1-E0367"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I03-C2",
+      "type": "stat_card",
+      "start_min": 37.0,
+      "duration_s": 8,
+      "title": "Observed vs expected",
+      "stats": {
+        "observed": 10.0,
+        "expected": 3.077,
+        "p_value": 0.0001082673039903447,
+        "evidence_strength": 0.661
+      },
+      "text": "Heuristic evidence strength, not a probability.",
+      "event_ids": [
+        "DEMO1-E0362",
+        "DEMO1-E0363",
+        "DEMO1-E0367"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I03-C3",
+      "type": "pitch_overlay",
+      "start_min": 27.0,
+      "end_min": 37.0,
+      "title": "Supporting events",
+      "overlay": "event_markers",
+      "event_ids": [
+        "DEMO1-E0362",
+        "DEMO1-E0363",
+        "DEMO1-E0367",
+        "DEMO1-E0368",
+        "DEMO1-E0389",
+        "DEMO1-E0390",
+        "DEMO1-E0391",
+        "DEMO1-E0392",
+        "DEMO1-E0394",
+        "DEMO1-E0395"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I04-C1",
+      "type": "lower_third",
+      "start_min": 28.0,
+      "duration_s": 8,
+      "title": "Harbour City: repeated attacks down the left flank 28'-38'",
+      "text": "73% of the 11 attacking-third passes and shots by Harbour City between 28' and 38' went down the left flank, against a baseline of 24% (p = ",
+      "event_ids": [
+        "DEMO1-E0320",
+        "DEMO1-E0321",
+        "DEMO1-E0322"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I04-C2",
+      "type": "stat_card",
+      "start_min": 38.0,
+      "duration_s": 8,
+      "title": "Observed vs expected",
+      "stats": {
+        "observed": 8.0,
+        "expected": 2.651,
+        "p_value": 0.0009125935825778606,
+        "evidence_strength": 0.507
+      },
+      "text": "Heuristic evidence strength, not a probability.",
+      "event_ids": [
+        "DEMO1-E0320",
+        "DEMO1-E0321",
+        "DEMO1-E0322"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I04-C3",
+      "type": "pitch_overlay",
+      "start_min": 28.0,
+      "end_min": 38.0,
+      "title": "Supporting events",
+      "overlay": "event_markers",
+      "event_ids": [
+        "DEMO1-E0320",
+        "DEMO1-E0321",
+        "DEMO1-E0322",
+        "DEMO1-E0323",
+        "DEMO1-E0330",
+        "DEMO1-E0337",
+        "DEMO1-E0338",
+        "DEMO1-E0347"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I05-C1",
+      "type": "lower_third",
+      "start_min": 51.0,
+      "duration_s": 8,
+      "title": "Northgate United: turnover spike 51'-66'",
+      "text": "From 51' to 66', Northgate United had 22 turnovers, against about 5.2 expected from their rate in the rest of the match (p = 2.4e-10).",
+      "event_ids": [
+        "DEMO1-E0558",
+        "DEMO1-E0574",
+        "DEMO1-E0578"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I05-C2",
+      "type": "stat_card",
+      "start_min": 66.0,
+      "duration_s": 8,
+      "title": "Observed vs expected",
+      "stats": {
+        "observed": 22.0,
+        "expected": 5.209,
+        "p_value": 2.4309513202179205e-10,
+        "evidence_strength": 1.0
+      },
+      "text": "Heuristic evidence strength, not a probability.",
+      "event_ids": [
+        "DEMO1-E0558",
+        "DEMO1-E0574",
+        "DEMO1-E0578"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I05-C3",
+      "type": "pitch_overlay",
+      "start_min": 51.0,
+      "end_min": 66.0,
+      "title": "Supporting events",
+      "overlay": "event_markers",
+      "event_ids": [
+        "DEMO1-E0558",
+        "DEMO1-E0574",
+        "DEMO1-E0578",
+        "DEMO1-E0588",
+        "DEMO1-E0599",
+        "DEMO1-E0602",
+        "DEMO1-E0612",
+        "DEMO1-E0617",
+        "DEMO1-E0626",
+        "DEMO1-E0630",
+        "DEMO1-E0640",
+        "DEMO1-E0645",
+        "DEMO1-E0652",
+        "DEMO1-E0660",
+        "DEMO1-E0666",
+        "DEMO1-E0677",
+        "DEMO1-E0688",
+        "DEMO1-E0694",
+        "DEMO1-E0698",
+        "DEMO1-E0707",
+        "DEMO1-E0714",
+        "DEMO1-E0720"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I06-C1",
+      "type": "lower_third",
+      "start_min": 52.0,
+      "duration_s": 8,
+      "title": "Northgate United: defensive-third turnovers 52'-67'",
+      "text": "Northgate United lost the ball 20 times in their own defensive third between 52' and 67', against about 4.0 expected (p = 8.7e-11).",
+      "event_ids": [
+        "DEMO1-E0574",
+        "DEMO1-E0578",
+        "DEMO1-E0588"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I06-C2",
+      "type": "stat_card",
+      "start_min": 67.0,
+      "duration_s": 8,
+      "title": "Observed vs expected",
+      "stats": {
+        "observed": 20.0,
+        "expected": 4.008,
+        "p_value": 8.658073716023187e-11,
+        "evidence_strength": 1.0
+      },
+      "text": "Heuristic evidence strength, not a probability.",
+      "event_ids": [
+        "DEMO1-E0574",
+        "DEMO1-E0578",
+        "DEMO1-E0588"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I06-C3",
+      "type": "pitch_overlay",
+      "start_min": 52.0,
+      "end_min": 67.0,
+      "title": "Supporting events",
+      "overlay": "event_markers",
+      "event_ids": [
+        "DEMO1-E0574",
+        "DEMO1-E0578",
+        "DEMO1-E0588",
+        "DEMO1-E0599",
+        "DEMO1-E0602",
+        "DEMO1-E0612",
+        "DEMO1-E0626",
+        "DEMO1-E0630",
+        "DEMO1-E0640",
+        "DEMO1-E0645",
+        "DEMO1-E0652",
+        "DEMO1-E0660",
+        "DEMO1-E0666",
+        "DEMO1-E0677",
+        "DEMO1-E0688",
+        "DEMO1-E0694",
+        "DEMO1-E0707",
+        "DEMO1-E0714",
+        "DEMO1-E0720",
+        "DEMO1-E0731"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I07-C1",
+      "type": "lower_third",
+      "start_min": 70.0,
+      "duration_s": 8,
+      "title": "Harbour City: shot surge 70'-85'",
+      "text": "Harbour City took 8 shots between 70' and 85', against about 1.3 expected from their rate in the rest of the match (p = 2.5e-05).",
+      "event_ids": [
+        "DEMO1-E0774",
+        "DEMO1-E0780",
+        "DEMO1-E0789"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I07-C2",
+      "type": "stat_card",
+      "start_min": 85.0,
+      "duration_s": 8,
+      "title": "Observed vs expected",
+      "stats": {
+        "observed": 8.0,
+        "expected": 1.333,
+        "p_value": 2.5344652027499667e-05,
+        "evidence_strength": 0.766
+      },
+      "text": "Heuristic evidence strength, not a probability.",
+      "event_ids": [
+        "DEMO1-E0774",
+        "DEMO1-E0780",
+        "DEMO1-E0789"
+      ]
+    },
+    {
+      "cue_id": "DEMO1-I07-C3",
+      "type": "pitch_overlay",
+      "start_min": 70.0,
+      "end_min": 85.0,
+      "title": "Supporting events",
+      "overlay": "event_markers",
+      "event_ids": [
+        "DEMO1-E0774",
+        "DEMO1-E0780",
+        "DEMO1-E0789",
+        "DEMO1-E0844",
+        "DEMO1-E0856",
+        "DEMO1-E0863",
+        "DEMO1-E0894",
+        "DEMO1-E0925"
+      ]
+    }
+  ]
+}
